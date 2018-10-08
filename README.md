@@ -6,4 +6,4 @@ run:
 'from cp_cpython_add_backs import *'
 
 # Contribute:
-contact me on discord as @TG-Techie #5402 with your code and and an example and i'll add it to the file with credit!
+Contact me on discord as @TG-Techie #5402 with your code and and an example and I'll add it to the file with credit!
